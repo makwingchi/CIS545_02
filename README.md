@@ -1,5 +1,3 @@
-Second assignment of CIS 545 Big Data Analytics at University of Pennsylvania
-
 ## Step 1. Getting Started with Apache Spark
 
 ### Step 1.1 Initializing a Connection to Spark
